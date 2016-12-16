@@ -3,7 +3,7 @@
   "description": "visualizations for a FANN topology",
   "autoload": {
     "psr-4": {
-      "Fann\\Topology\\Core\\" : "src"
+      "Fann\\Topology\\Visualization\\" : "src"
     }
   },
   "require": {
