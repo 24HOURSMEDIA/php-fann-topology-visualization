@@ -1,0 +1,12 @@
+{
+  "name": "24hoursmedia/php-fann-topology-visualization",
+  "description": "visualizations for a FANN topology",
+  "autoload": {
+    "psr-4": {
+      "Fann\\Topology\\Core\\" : "src"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
