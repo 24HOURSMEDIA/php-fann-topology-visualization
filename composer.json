@@ -7,6 +7,7 @@
     }
   },
   "require": {
+    "24hoursmedia/php-fann-topology-visualization": "master-dev",
     "php": ">=5.6"
   }
 }
