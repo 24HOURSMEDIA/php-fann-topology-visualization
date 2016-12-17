@@ -11,6 +11,7 @@ use T4\Fann\Topology\Core\NeuronVisitorInterface;
 
 /**
  * Class D3JsNeuronVisitor
+ * Visits neurons and collects data for creating a graph
  */
 class D3JsNeuronVisitor implements NeuronVisitorInterface
 {
