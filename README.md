@@ -3,7 +3,6 @@
 [![Code Climate](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-visualization/badges/gpa.svg)](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-visualization)
 [![Test Coverage](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-visualization/badges/coverage.svg)](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-visualization/coverage)
 
-
 This component visualizes a FANN neural network using D3JS.
 The visualization shows nodes and their connections to eachother.
 
