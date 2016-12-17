@@ -5,11 +5,13 @@
 
 namespace T4\Fann\Topology\Visualization\D3J;
 
-
 use T4\Fann\Topology\Core\Layer;
 use T4\Fann\Topology\Core\Neuron;
 use T4\Fann\Topology\Core\NeuronVisitorInterface;
 
+/**
+ * Class D3JsNeuronVisitor
+ */
 class D3JsNeuronVisitor implements NeuronVisitorInterface
 {
 
